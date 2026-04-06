@@ -1,8 +1,9 @@
 Este repositório contém a resolução do desafio técnico para a vaga de Desenvolvedor Fullstack. O projeto está dividido em duas partes principais: o desenvolvimento de uma Landing Page funcional em React e a estruturação de um Fluxo de Integração de dados.
 
 Como executar o projeto 
-1-Certifique-se de ter o Node.js instalado.
-2-Na raiz do projeto, instale as dependências:
+Certifique-se de ter o Node.js instalado.
+Escreva o comando "cd meu-projeto" no terminal para entrar na pasta.
+No terminal, escreva os comandos:
 npm install
 npm run dev
 
